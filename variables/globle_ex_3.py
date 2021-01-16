@@ -1,7 +1,3 @@
-def myFunc():
-    global x
-    x = "fantastic"
-
-
-myFunc()
-print("Python is " + x)
+x, y, z = "Orange", "Orange", "Orange"
+print(x)
+print(y)
